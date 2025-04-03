@@ -9,12 +9,12 @@ I have been using .NET since 10+ years ago. Today, I proudly live in Avola, Ital
   <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png">
 </p>
   
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-assenza&show_icons=true&bg_color=00000000)
 
 <details>
   <summary>⚡ GitHub Stats</summary>
   <ul>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-assenza&show_icons=true&bg_color=00000000)
+   
   </ul>
 </details>
 
