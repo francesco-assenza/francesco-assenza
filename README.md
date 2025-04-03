@@ -7,9 +7,8 @@ I'm a Consultant and Software Engineer! I have been using .NET since 10+ years a
 
 ### ☁️ Cloud
 
-|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"> | Microsoft Azure | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png` |
+
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png">
 
 
 ## GitHub Stats
