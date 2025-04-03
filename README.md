@@ -13,7 +13,9 @@ I have been using .NET since 10+ years ago. Today, I proudly live in Avola, Ital
 
 <details>
   <summary>⚡ GitHub Stats</summary>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-assenza&show_icons=true&bg_color=00000000)
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=francesco-assenza&show_icons=true&bg_color=00000000" alt="Francesco's GitHub Stats">
+  </p>
 </details>
 
 <!--
