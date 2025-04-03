@@ -5,17 +5,9 @@ I have been using .NET since 10+ years ago. Today, I proudly live in Avola, Ital
 
 <p>
   <a href="https://skillicons.dev">
-    <img height="30" src="https://skillicons.dev/icons?i=visualstudio,cs,azure" />
+    <img height="30" src="https://skillicons.dev/icons?i=visualstudio,cs,azure,html,js,angular" />
   </a>
 </p>
-
-<p>
-  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visualstudio.png">
-  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png">
-  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png">
-  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png">
-</p>
-
 <details>
   <summary>⚡ GitHub Stats</summary>
   <p>
