@@ -6,16 +6,7 @@
 I'm a Consultant and Software Engineer! I have been using .NET since 10+ years ago. Today, I proudly live in Avola, Italy, working as consultant. I design and develop solutions for the Microsoft ecosystem, building applications for Desktop and Web. My greatest expertise is backend development.
 
 ## Languages and Tools
-- !Visual Studio Visual Studio
-- !C# C#
-- !.NET Core .NET Core
-- !Azure Azure
-- !HTML5 HTML5
-- !CSS3 CSS3
-- !JavaScript JavaScript
-- !SQL SQL
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-- !GitHub GitHub
+	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png
 
 ## GitHub Stats
 !Francesco's GitHub Stats
