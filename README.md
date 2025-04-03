@@ -9,8 +9,7 @@ I have been using .NET since 10+ years ago. Today, I proudly live in Avola, Ital
   <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png">
 </p>
 
-## GitHub Stats
-!Francesco's GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-assenza)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Hi there 👋
