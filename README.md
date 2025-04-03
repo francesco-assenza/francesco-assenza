@@ -9,7 +9,8 @@ I'm a Consultant and Software Engineer! I have been using .NET since 10+ years a
 
 
 <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png">
-
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png">
 
 ## GitHub Stats
 !Francesco's GitHub Stats
