@@ -3,9 +3,9 @@
 ## I'm a Consultant and Software Engineer!
 I have been using .NET since 10+ years ago. Today, I proudly live in Avola, Italy, working as consultant. I design and develop solutions for the Microsoft ecosystem, building applications for Desktop and Web. My greatest expertise is backend development.
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,cs,azure" />
+    <img height="30" src="https://skillicons.dev/icons?i=visualstudio,cs,azure" />
   </a>
 </p>
 
