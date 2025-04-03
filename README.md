@@ -11,6 +11,17 @@ I have been using .NET since 10+ years ago. Today, I proudly live in Avola, Ital
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-assenza&show_icons=true&bg_color=00000000)
 
+<details>
+  <summary>Summary</summary>
+  <ul>
+    <li><strong>Repositories:</strong> Number of repositories you have</li>
+    <li><strong>Commits:</strong> Total commits made</li>
+    <li><strong>Stars:</strong> Number of stars received</li>
+    <li><strong>Followers:</strong> Number of followers</li>
+    <li><strong>Following:</strong> Number of people you are following</li>
+  </ul>
+</details>
+
 <!--
 ## Hi there 👋
 
